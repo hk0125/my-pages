@@ -1,2 +1,2 @@
-# hk.github.io
+# my pages
 Hk's blog 
