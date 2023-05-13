@@ -20,18 +20,15 @@
 
 title: hk's pages
 email: jsonhu31415926@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  ...
 baseurl: "/my-pages/" # the subpath of your site, e.g. /blog
 url: "https://hk0125.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-# twitter_username: 
-# github_username:
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
 
+timezone: Asia/ShangHai
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
